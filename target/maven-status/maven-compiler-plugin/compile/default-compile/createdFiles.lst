@@ -1,0 +1,5 @@
+com/twotier/twotier/service/ServiceMsg.class
+com/twotier/twotier/TwotierApplication.class
+com/twotier/twotier/controller/TwoController.class
+com/twotier/twotier/model/Msg.class
+com/twotier/twotier/Repository/RepositoryMsg.class
